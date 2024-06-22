@@ -1,0 +1,70 @@
+2024-06-20 12:22:26.439 [info] Started local extension host with pid 9542.
+2024-06-20 12:22:28.837 [info] Started initializing default profile extensions in extensions installation folder. file:///home/blessingwilliam195/.vscode/extensions
+2024-06-20 12:22:35.555 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/blessingwilliam195/.vscode/extensions
+2024-06-20 12:22:44.402 [info] [perf] Render performance baseline is 329ms
+2024-06-20 12:26:05.600 [info] Settings Sync: Updating due to change in sessions
+2024-06-20 12:26:05.609 [info] Settings Sync: Updated current session 34c461b5296c0866
+2024-06-20 12:26:42.819 [info] Settings Sync: Updating due to change in sessions
+2024-06-20 12:28:22.888 [error] ENOENT: no such file or directory, open '/home/blessingwilliam195/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/blessingwilliam195/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2024-06-20 12:46:36.696 [error] Unable to read file '/home/blessingwilliam195/my php file/styles.css' (Error: File not modified since): Error: Unable to read file '/home/blessingwilliam195/my php file/styles.css' (Error: File not modified since)
+    at o.F (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:657:19291)
+    at o.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:657:19179)
+    at async d.M (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2202:35250)
+    at async d.readStream (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2202:35007)
+    at async L.Cb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2191:11348)
+    at async L.resolve (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2191:9760)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2202:31053
+2024-06-20 12:48:04.496 [error] There are no commenting ranges at the current position (with range).: Error: There are no commenting ranges at the current position (with range).
+    at K.addCommentAtLine (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2115:2642)
+    at K.addOrToggleCommentAtLine (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2115:2172)
+    at K.bb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2115:1877)
+    at u.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2114:34206)
+    at ue.y (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at ue.z (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:729)
+    at ue.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:945)
+    at ue.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:766:22581)
+    at ve.onMouseUp (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:766:20386)
+    at S.emitMouseUp (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:104:22105)
+    at k.emitMouseUp (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:694:46605)
+    at i.F (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:740:15223)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:740:12790
+    at HTMLDivElement.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:735:37151)
+2024-06-20 12:55:20.212 [info] Extension host (LocalProcess pid: 9542) is unresponsive.
+2024-06-20 12:55:21.734 [info] Extension host (LocalProcess pid: 9542) is responsive.
+2024-06-20 12:55:26.166 [info] Extension host (LocalProcess pid: 9542) is unresponsive.
+2024-06-20 12:55:27.888 [info] Extension host (LocalProcess pid: 9542) is responsive.
+2024-06-20 12:55:27.895 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-06-20 12:55:30.940 [info] Extension host (LocalProcess pid: 9542) is unresponsive.
+2024-06-20 12:55:35.468 [info] Extension host (LocalProcess pid: 9542) is responsive.
+2024-06-20 12:55:35.472 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-06-20 12:55:35.618 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-06-20 12:55:40.130 [info] Extension host (LocalProcess pid: 9542) is unresponsive.
+2024-06-20 12:55:40.637 [info] Extension host (LocalProcess pid: 9542) is responsive.
+2024-06-20 12:55:40.655 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-06-20 12:55:50.660 [info] Extension host (LocalProcess pid: 9542) is unresponsive.
+2024-06-20 12:55:50.726 [info] Extension host (LocalProcess pid: 9542) is responsive.
+2024-06-20 12:55:50.748 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-06-20 12:55:54.155 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-06-20 12:56:01.945 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-06-20 12:56:01.974 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-06-20 12:56:02.012 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-06-20 12:57:09.189 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-06-20 13:01:45.961 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-06-20 13:03:17.991 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2024-06-20 13:03:18.586 [info] Extension host (LocalProcess pid: 9542) is unresponsive.
+2024-06-20 13:03:19.095 [error] [Extension Host] grep: /opt/google/cros-containers/lost+found: Permission denied
+2024-06-20 13:03:19.218 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2024-06-20 13:03:19.854 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-06-20 13:03:19.944 [error] [Extension Host] grep: /opt/google/cros-containers/lost+found: Permission denied
+2024-06-20 13:03:20.093 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2024-06-20 13:03:20.152 [error] [Extension Host] grep: /opt/google/cros-containers/lost+found: Permission denied
+2024-06-20 13:03:20.471 [info] Extension host (LocalProcess pid: 9542) is responsive.
+2024-06-20 13:03:20.477 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-06-20 13:03:51.637 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2024-06-20 13:03:51.728 [error] [Extension Host] grep: /opt/google/cros-containers/lost+found: Permission denied
+2024-06-20 13:03:51.894 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2024-06-20 13:03:52.026 [error] [Extension Host] grep: /opt/google/cros-containers/lost+found: Permission denied
+2024-06-20 13:03:52.152 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2024-06-20 13:03:52.287 [error] [Extension Host] grep: /opt/google/cros-containers/lost+found: Permission denied
+2024-06-20 13:11:06.860 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-06-20 13:11:13.537 [error] [Extension Host] Received response message without id. No further error information provided.

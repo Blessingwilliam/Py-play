@@ -1,0 +1,29 @@
+GitLens v15.1.0 activating in Visual Studio Code (1.90.2) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (39e32952c7023118050db394307467a7855e1ab87db857d759062aa91a69d644|0823ef1b-cb96-4d5c-a5cd-56f2b34a12851719053557622)
+To enable debug logging, set `"gitlens.outputLevel: "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette[2024-06-22 10:56:22.206] /home/blessingwilliam195/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1120:7790
+Error: spawn /usr/bin/git ENOENT[2024-06-22 10:59:59.343] [GIT  ] [/home/blessingwilliam195/url handler/vscode-handler] git remote -v [*509ms] (slow)
+[2024-06-22 10:59:59.364] /home/blessingwilliam195/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1120:7790
+Error: spawn /usr/bin/git ENOENT
+[2024-06-22 10:59:59.446] /home/blessingwilliam195/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1120:7790
+Error: spawn /usr/bin/git ENOENT
+[2024-06-22 10:59:59.508] /home/blessingwilliam195/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1120:7790
+Error: spawn /usr/bin/git ENOENT
+[2024-06-22 10:59:59.601] /home/blessingwilliam195/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1120:7790
+Error: spawn /usr/bin/git ENOENT
+[2024-06-22 10:59:59.679] /home/blessingwilliam195/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1120:7790
+Error: spawn /usr/bin/git ENOENT
+[2024-06-22 10:59:59.747] [GIT  ] [/home/blessingwilliam195/url handler 2/url handler/vscode-handler] git remote -v [*633ms] (slow)
+[2024-06-22 11:00:00.174] [GIT  ] [/home/blessingwilliam195/url handler 2/url handler/vscode-handler] git ls-files -- install [*1074ms] (slow)
+[2024-06-22 11:00:00.280] [GIT  ] [/home/blessingwilliam195/url handler 2/url handler/vscode-handler] git rev-parse --git-dir --git-common-dir [*1572ms] (slow)[2024-06-22 11:00:01.793] ClientRequest.<anonymous>
+FetchError: request to https://github.com/shengyou/vscode-handler failed, reason: 
+[2024-06-22 11:00:01.793] ClientRequest.<anonymous>
+FetchError: request to https://github.com/shengyou/vscode-handler failed, reason: 
+[2024-06-22 11:00:01.861] [GIT  ] [/home/blessingwilliam195/url handler 2/url handler/vscode-handler] git rev-parse --verify --end-of-options 179962b7f9d387ff5c38b472034bcf0966bb96d6^:./install [*643ms] (slow)
+[2024-06-22 11:00:01.872] [GIT  ] [/home/blessingwilliam195/url handler 2/url handler/vscode-handler] git log -M -n1 --format=%H 179962b7f9d387ff5c38b472034bcf0966bb96d6^ -- install [*1088ms] (slow)
+[2024-06-22 11:00:01.873] [GIT  ] [/home/blessingwilliam195/url handler 2/url handler/vscode-handler] git log --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cn%x3e%x20%cN%n%x3cm%x3e%x20%cE%n%x3cc%x3e%x20%ct%n%x3cp%x3e%x20%P%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e%n%x3cf%x3e -M --name-status --full-history -m --no-min-parents -n3 179962b7f9d387ff5c38b472034bcf0966bb96d6 -- [*1097ms] (slow)[2024-06-22 12:27:54.373] [GIT  ] [/home/blessingwilliam195] git rev-parse --show-toplevel [*954ms] (slow)[2024-06-22 12:27:55.196] /home/blessingwilliam195/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1120:7790
+Error: spawn /usr/bin/git ENOENT
+[2024-06-22 12:27:55.206] [GIT  ] [/home/blessingwilliam195] git rev-parse --git-dir --git-common-dir [*598ms] (slow)
+[2024-06-22 12:27:55.536] /home/blessingwilliam195/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1120:7790
+Error: spawn /usr/bin/git ENOENT
+[2024-06-22 12:27:55.593] /home/blessingwilliam195/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1120:7790
+Error: spawn /usr/bin/git ENOENT
+[2024-06-22 12:27:55.637] [GIT  ] [/home/blessingwilliam195] git ls-files -- login.html [*765ms] (slow)[2024-06-22 12:27:58.073] [GIT  ] [/home/blessingwilliam195] git log --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cn%x3e%x20%cN%n%x3cm%x3e%x20%cE%n%x3cc%x3e%x20%ct%n%x3cp%x3e%x20%P%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e%n%x3cf%x3e -M --name-status --full-history -m --no-min-parents -n3 5f06b7c4b3a86d1d79e6c6c4891cc22f91dd3c42 -- [*1362ms] (slow)[2024-06-22 12:39:55.530] [GIT  ] [/home/blessingwilliam195/url handler/vscode-handler] git rev-parse --abbrev-ref --symbolic-full-name @ @{u} -- • spawn /usr/bin/git ENOENT [27ms]

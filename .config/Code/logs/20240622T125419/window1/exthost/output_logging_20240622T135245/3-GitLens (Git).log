@@ -1,0 +1,4 @@
+[2024-06-22 12:39:55.531] [     27ms] [/home/blessingwilliam195/url handler/vscode-handler] git rev-parse --abbrev-ref --symbolic-full-name @ @{u} -- • FAILED
+
+Error: spawn /usr/bin/git ENOENT
+

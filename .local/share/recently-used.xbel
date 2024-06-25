@@ -13,12 +13,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/blessingwilliam195/login.html" added="2024-06-20T09:37:02.957598Z" modified="2024-06-20T09:37:02.962329Z" visited="2024-06-20T09:37:02.962240Z">
+  <bookmark href="file:///home/blessingwilliam195/login.html" added="2024-06-20T09:37:02.957598Z" modified="2024-06-22T12:27:48.448179Z" visited="2024-06-20T09:37:02.962240Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/html"/>
         <bookmark:applications>
-          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-06-20T09:37:02.962275Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-06-22T12:27:48.448146Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -99,6 +99,26 @@
         <mime:mime-type type="application/x-php"/>
         <bookmark:applications>
           <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-06-20T10:01:42.508700Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blessingwilliam195/url%20handler" added="2024-06-22T10:52:13.094173Z" modified="2024-06-22T10:52:13.094269Z" visited="2024-06-22T10:52:13.094233Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-06-22T10:52:13.094240Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blessingwilliam195/url%20handler%202/url%20handler/vscode-handler/install" added="2024-06-22T10:59:55.139264Z" modified="2024-06-22T10:59:55.139307Z" visited="2024-06-22T10:59:55.139267Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-install"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-06-22T10:59:55.139274Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

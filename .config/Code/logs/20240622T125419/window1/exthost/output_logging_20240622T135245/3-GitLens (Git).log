@@ -2,3 +2,15 @@
 
 Error: spawn /usr/bin/git ENOENT
 
+[2024-06-22 12:40:12.980] [    142ms] [/home/blessingwilliam195/.git] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: this operation must be run in a work tree
+
+
+[2024-06-22 12:40:19.523] [     89ms] [/home/blessingwilliam195/url handler 2/url handler/vscode-handler/.git] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: this operation must be run in a work tree
+
+

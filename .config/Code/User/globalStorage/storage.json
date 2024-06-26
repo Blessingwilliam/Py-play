@@ -5,7 +5,7 @@
             "file:///home/blessingwilliam195/url%20handler/vscode-handler": "__default__profile__"
         },
         "emptyWindows": {
-            "1718875337205": "__default__profile__"
+            "1719416530608": "__default__profile__"
         }
     },
     "profileAssociationsMigration": true,
@@ -14,14 +14,10 @@
     "telemetry.devDeviceId": "13716ada-b348-4446-8dcb-bc38b030ed17",
     "backupWorkspaces": {
         "workspaces": [],
-        "folders": [
-            {
-                "folderUri": "file:///home/blessingwilliam195/url%20handler/vscode-handler"
-            }
-        ],
+        "folders": [],
         "emptyWindows": [
             {
-                "backupFolder": "1718875337205"
+                "backupFolder": "1719416530608"
             }
         ]
     },
@@ -63,7 +59,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -311,10 +308,6 @@
                         "label": "&&Close Editor"
                     },
                     {
-                        "id": "workbench.action.closeFolder",
-                        "label": "Close &&Folder"
-                    },
-                    {
                         "id": "workbench.action.closeWindow",
                         "label": "Clos&&e Window"
                     },
@@ -524,8 +517,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "&&Primary Side Bar",
-                                    "checked": true
+                                    "label": "&&Primary Side Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleAuxiliaryBar",
@@ -538,7 +530,8 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "&&Panel"
+                                    "label": "&&Panel",
+                                    "checked": true
                                 },
                                 {
                                     "id": "toggle.toggleCustomTitleBar",
@@ -1179,8 +1172,7 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal",
-                        "enabled": false
+                        "label": "&&Split Terminal"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1375,11 +1367,6 @@
             "workbench.action.closeActiveEditor": {
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
-            },
-            "workbench.action.closeFolder": {
-                "label": "Ctrl+K F",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k f"
             },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
@@ -1580,10 +1567,6 @@
                 "label": "Alt+Z",
                 "userSettingsLabel": "alt+z"
             },
-            "workbench.action.navigateBack": {
-                "label": "Ctrl+Alt+-",
-                "userSettingsLabel": "ctrl+alt+-"
-            },
             "workbench.action.navigateForward": {
                 "label": "Ctrl+Shift+-",
                 "userSettingsLabel": "ctrl+shift+-"
@@ -1778,15 +1761,14 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 300,
+            "sideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/blessingwilliam195/url%20handler/vscode-handler",
-            "backupPath": "/home/blessingwilliam195/.config/Code/Backups/29ada125d6b3007643c4d97de054ce6c",
+            "backupPath": "/home/blessingwilliam195/.config/Code/Backups/1719416530608",
             "uiState": {
                 "mode": 0,
                 "x": 0,

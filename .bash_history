@@ -27,3 +27,7 @@ git push origin master
 git remote add origin https://github.com/Blessingwilliam/login-page.git
 git push -u origin master
 git clone https://https://github.com/shengyou/vscode-handler
+cd root
+ls
+cd url handler 2
+sudo bash install "url handler 2"

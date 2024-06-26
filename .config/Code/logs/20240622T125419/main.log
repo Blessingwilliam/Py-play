@@ -8,3 +8,6 @@
 2024-06-22 14:10:51.357 [warning] No ptyHost heartbeat after 6 seconds
 2024-06-22 15:15:22.059 [warning] No ptyHost heartbeat after 6 seconds
 2024-06-22 15:26:10.957 [warning] No ptyHost heartbeat after 6 seconds
+2024-06-22 15:40:43.482 [info] update#setState checking for updates
+2024-06-22 15:40:44.300 [info] update#setState idle
+2024-06-22 15:41:15.027 [info] Extension host with pid 5697 exited with code: 0, signal: unknown.

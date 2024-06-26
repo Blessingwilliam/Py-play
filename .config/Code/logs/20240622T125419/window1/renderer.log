@@ -32,3 +32,4 @@
     at async s.openEditor (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2185:22146)
     at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2313:26784
     at async u.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2366:49003)
+2024-06-22 15:41:06.592 [warning] [lifecycle] onWillShutdown is taking a long time, pending operations: join.closeStorage

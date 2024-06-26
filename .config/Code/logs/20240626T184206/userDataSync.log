@@ -1,0 +1,48 @@
+2024-06-26 18:42:31.207 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2024-06-26 18:42:31.207 [info] Auto Sync is enabled.
+2024-06-26 18:42:31.207 [info] Auto Sync: Suspended until auth token is available.
+2024-06-26 18:42:41.620 [info] Deleting non existing profile from backup /home/blessingwilliam195/.config/Code/User/sync/extensions
+2024-06-26 18:42:43.431 [info] Deleting non existing profile from backup /home/blessingwilliam195/.config/Code/User/sync/globalState
+2024-06-26 18:42:44.101 [info] Deleting non existing profile from backup /home/blessingwilliam195/.config/Code/User/sync/keybindings
+2024-06-26 18:42:44.908 [info] Deleting non existing profile from backup /home/blessingwilliam195/.config/Code/User/sync/profiles
+2024-06-26 18:42:45.896 [info] Deleting non existing profile from backup /home/blessingwilliam195/.config/Code/User/sync/settings
+2024-06-26 18:42:48.208 [info] Deleting non existing profile from backup /home/blessingwilliam195/.config/Code/User/sync/snippets
+2024-06-26 18:42:48.595 [info] Deleting non existing profile from backup /home/blessingwilliam195/.config/Code/User/sync/tasks
+2024-06-26 18:42:50.377 [info] Auto Sync: Triggered by Interval
+2024-06-26 18:42:50.379 [info] Sync started.
+2024-06-26 18:42:52.673 [info] Settings: Last sync resource does not exist locally.
+2024-06-26 18:42:55.148 [info] Settings: No changes found during synchronizing settings.
+2024-06-26 18:42:55.154 [info] Keybindings: Last sync resource does not exist locally.
+2024-06-26 18:43:06.711 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-26 18:43:07.215 [info] Snippets: Last sync resource does not exist locally.
+2024-06-26 18:43:07.785 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-26 18:43:07.791 [info] Tasks: Last sync resource does not exist locally.
+2024-06-26 18:43:08.105 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-26 18:43:08.114 [info] GlobalState: Last sync resource does not exist locally.
+2024-06-26 18:43:09.256 [info] GlobalState: Updated remote ui state. Updated: nps/lastSessionDate,nps/sessionCount,cpp.1.lastSessionDate,cpp.1.sessionCount,java.2.lastSessionDate,java.2.sessionCount,javascript.1.lastSessionDate,javascript.1.sessionCount,typescript.1.lastSessionDate,typescript.1.sessionCount,csharp.1.lastSessionDate,csharp.1.sessionCount.
+2024-06-26 18:43:09.278 [info] GlobalState: Updated last synchronized ui state
+2024-06-26 18:43:09.300 [info] Extensions: Last sync resource does not exist locally.
+2024-06-26 18:43:10.328 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-26 18:43:10.338 [info] Profiles: Last sync resource does not exist locally.
+2024-06-26 18:43:10.638 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-26 18:43:10.651 [info] Sync done. Took 20273ms
+2024-06-26 18:43:10.652 [info] Auto Sync: Triggered by Activity
+2024-06-26 18:43:10.653 [info] Sync started.
+2024-06-26 18:43:11.258 [info] Settings: No changes found during synchronizing settings.
+2024-06-26 18:43:11.324 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-26 18:43:11.405 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-26 18:43:11.565 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-26 18:43:11.617 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-26 18:43:12.105 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-26 18:43:12.114 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-26 18:43:12.123 [info] Sync done. Took 1466ms
+2024-06-26 18:48:05.419 [info] Auto Sync: Triggered by Activity
+2024-06-26 18:48:05.422 [info] Sync started.
+2024-06-26 18:48:06.732 [info] Settings: No changes found during synchronizing settings.
+2024-06-26 18:48:06.797 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-26 18:48:06.828 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-26 18:48:06.846 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-26 18:48:06.859 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-26 18:48:07.266 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-26 18:48:07.285 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-26 18:48:07.304 [info] Sync done. Took 1893ms

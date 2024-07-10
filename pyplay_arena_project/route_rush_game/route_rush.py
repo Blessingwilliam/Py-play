@@ -1,3 +1,5 @@
+# simple game to play solo but watch the speed
+
 import pygame
 from pygame.locals import *
 import random

@@ -1,303 +1,0 @@
-2024-06-22 12:54:59.759 [info] Log level: Info
-2024-06-22 12:54:59.759 [info] Validating found git in: "git"
-2024-06-22 12:54:59.759 [info] Using git "2.39.2" from "git"
-2024-06-22 12:54:59.759 [info] > git rev-parse --show-toplevel [48ms]
-2024-06-22 12:54:59.759 [info] fatal: not a git repository (or any of the parent directories): .git
-2024-06-22 13:00:48.640 [info] > git rev-parse --show-toplevel [132ms]
-2024-06-22 13:00:48.641 [info] fatal: not a git repository (or any of the parent directories): .git
-2024-06-22 13:00:58.049 [info] > git rev-parse --show-toplevel [1089ms]
-2024-06-22 13:00:58.049 [info] fatal: not a git repository (or any of the parent directories): .git
-2024-06-22 13:00:58.138 [info] > git rev-parse --show-toplevel [17ms]
-2024-06-22 13:00:58.138 [info] fatal: not a git repository (or any of the parent directories): .git
-2024-06-22 13:02:08.042 [info] > git rev-parse --show-toplevel [68ms]
-2024-06-22 13:02:08.053 [info] fatal: not a git repository (or any of the parent directories): .git
-2024-06-22 13:52:19.313 [info] > git clone https://github.com/shengyou/vscode-handler.git /home/blessingwilliam195/url handler/vscode-handler --progress [5394ms]
-2024-06-22 13:52:19.314 [info] Cloning into '/home/blessingwilliam195/url handler/vscode-handler'...
-remote: Enumerating objects: 58, done.        
-remote: Counting objects:  33% (1/3)        remote: Counting objects:  66% (2/3)        remote: Counting objects: 100% (3/3)        remote: Counting objects: 100% (3/3), done.        
-remote: Compressing objects:  33% (1/3)        remote: Compressing objects:  66% (2/3)        remote: Compressing objects: 100% (3/3)        remote: Compressing objects: 100% (3/3), done.        
-Receiving objects:   1% (1/58)Receiving objects:   3% (2/58)Receiving objects:   5% (3/58)Receiving objects:   6% (4/58)Receiving objects:   8% (5/58)Receiving objects:  10% (6/58)Receiving objects:  12% (7/58)Receiving objects:  13% (8/58)Receiving objects:  15% (9/58)Receiving objects:  17% (10/58)Receiving objects:  18% (11/58)Receiving objects:  20% (12/58)Receiving objects:  22% (13/58)Receiving objects:  24% (14/58)Receiving objects:  25% (15/58)Receiving objects:  27% (16/58)remote: Total 58 (delta 0), reused 1 (delta 0), pack-reused 55        
-Receiving objects:  29% (17/58)Receiving objects:  31% (18/58)Receiving objects:  32% (19/58)Receiving objects:  34% (20/58)Receiving objects:  36% (21/58)Receiving objects:  37% (22/58)Receiving objects:  39% (23/58)Receiving objects:  41% (24/58)Receiving objects:  43% (25/58)Receiving objects:  44% (26/58)Receiving objects:  46% (27/58)Receiving objects:  48% (28/58)Receiving objects:  50% (29/58)Receiving objects:  51% (30/58)Receiving objects:  53% (31/58)Receiving objects:  55% (32/58)Receiving objects:  56% (33/58)Receiving objects:  58% (34/58)Receiving objects:  60% (35/58)Receiving objects:  62% (36/58)Receiving objects:  63% (37/58)Receiving objects:  65% (38/58)Receiving objects:  67% (39/58)Receiving objects:  68% (40/58)Receiving objects:  70% (41/58)Receiving objects:  72% (42/58)Receiving objects:  74% (43/58)Receiving objects:  75% (44/58)Receiving objects:  77% (45/58)Receiving objects:  79% (46/58)Receiving objects:  81% (47/58)Receiving objects:  82% (48/58)Receiving objects:  84% (49/58)Receiving objects:  86% (50/58)Receiving objects:  87% (51/58)Receiving objects:  89% (52/58)Receiving objects:  91% (53/58)Receiving objects:  93% (54/58)Receiving objects:  94% (55/58)Receiving objects:  96% (56/58)Receiving objects:  98% (57/58)Receiving objects: 100% (58/58)Receiving objects: 100% (58/58), 136.93 KiB | 426.00 KiB/s, done.
-Resolving deltas:   0% (0/17)Resolving deltas:   5% (1/17)Resolving deltas:  11% (2/17)Resolving deltas:  17% (3/17)Resolving deltas:  23% (4/17)Resolving deltas:  29% (5/17)Resolving deltas:  35% (6/17)Resolving deltas:  41% (7/17)Resolving deltas:  47% (8/17)Resolving deltas:  52% (9/17)Resolving deltas:  58% (10/17)Resolving deltas:  64% (11/17)Resolving deltas:  70% (12/17)Resolving deltas:  76% (13/17)Resolving deltas:  82% (14/17)Resolving deltas:  88% (15/17)Resolving deltas:  94% (16/17)Resolving deltas: 100% (17/17)Resolving deltas: 100% (17/17), done.
-2024-06-22 13:53:15.441 [info] Log level: Info
-2024-06-22 13:53:15.441 [info] Validating found git in: "git"
-2024-06-22 13:53:15.441 [info] Using git "2.39.2" from "git"
-2024-06-22 13:53:15.441 [info] > git rev-parse --show-toplevel [30ms]
-2024-06-22 13:53:15.481 [info] > git rev-parse --git-dir --git-common-dir [13ms]
-2024-06-22 13:53:15.588 [info] Open repository: /home/blessingwilliam195/url handler/vscode-handler
-2024-06-22 13:53:15.880 [info] > git rev-parse --show-toplevel [74ms]
-2024-06-22 13:53:15.917 [info] > git config --get commit.template [170ms]
-2024-06-22 13:53:16.035 [info] > git rev-parse --show-toplevel [76ms]
-2024-06-22 13:53:16.045 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [19ms]
-2024-06-22 13:53:16.074 [warning] ENOENT: no such file or directory, open '/home/blessingwilliam195/url handler/vscode-handler/.git/refs/remotes/origin/master'
-2024-06-22 13:53:16.102 [info] > git rev-parse refs/remotes/origin/master [28ms]
-2024-06-22 13:53:16.247 [info] > git status -z -uall [102ms]
-2024-06-22 13:53:16.684 [info] > git merge-base refs/heads/master refs/remotes/origin/master [384ms]
-2024-06-22 13:53:16.989 [info] > git check-ignore -v -z --stdin [179ms]
-2024-06-22 13:53:16.998 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [244ms]
-2024-06-22 13:53:17.049 [info] > git config --get commit.template [377ms]
-2024-06-22 13:53:17.077 [info] > git diff --name-status -z --diff-filter=ADMR 4e568b534278a4410fd423cf7a039b9e4154e459...refs/remotes/origin/master [31ms]
-2024-06-22 13:53:17.118 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [17ms]
-2024-06-22 13:53:17.183 [warning] ENOENT: no such file or directory, open '/home/blessingwilliam195/url handler/vscode-handler/.git/refs/remotes/origin/master'
-2024-06-22 13:53:17.200 [info] > git rev-parse refs/remotes/origin/master [16ms]
-2024-06-22 13:53:17.232 [info] > git status -z -uall [18ms]
-2024-06-22 13:58:38.814 [warning] ENOENT: no such file or directory, open '/home/blessingwilliam195/url handler/vscode-handler/.git/HEAD'
-2024-06-22 13:58:38.890 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/blessingwilliam195/url handler/vscode-handler/.git/config'
-2024-06-22 13:58:39.111 [warning] ENOENT: no such file or directory, open '/home/blessingwilliam195/url handler/vscode-handler/.git/HEAD'
-2024-06-22 13:58:39.227 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/blessingwilliam195/url handler/vscode-handler/.git/config'
-2024-06-22 13:59:57.974 [info] > git rev-parse --show-toplevel [27ms]
-2024-06-22 14:00:13.849 [info] > git rev-parse --show-toplevel [20ms]
-2024-06-22 14:00:14.022 [info] > git rev-parse --git-dir --git-common-dir [22ms]
-2024-06-22 14:00:14.164 [info] Open repository: /home/blessingwilliam195/url handler 2/url handler/vscode-handler
-2024-06-22 14:00:14.224 [info] > git config --get commit.template [8ms]
-2024-06-22 14:00:14.298 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [30ms]
-2024-06-22 14:00:14.315 [warning] ENOENT: no such file or directory, open '/home/blessingwilliam195/url handler 2/url handler/vscode-handler/.git/refs/remotes/origin/master'
-2024-06-22 14:00:14.322 [info] > git rev-parse refs/remotes/origin/master [8ms]
-2024-06-22 14:00:14.495 [info] > git status -z -uall [131ms]
-2024-06-22 14:00:14.644 [info] > git merge-base refs/heads/master refs/remotes/origin/master [57ms]
-2024-06-22 14:00:14.957 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [93ms]
-2024-06-22 14:00:15.034 [info] > git config --get commit.template [391ms]
-2024-06-22 14:00:15.112 [info] > git diff --name-status -z --diff-filter=ADMR 4e568b534278a4410fd423cf7a039b9e4154e459...refs/remotes/origin/master [85ms]
-2024-06-22 14:00:15.500 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [79ms]
-2024-06-22 14:00:15.572 [warning] ENOENT: no such file or directory, open '/home/blessingwilliam195/url handler 2/url handler/vscode-handler/.git/refs/remotes/origin/master'
-2024-06-22 14:00:15.701 [info] > git check-ignore -v -z --stdin [40ms]
-2024-06-22 14:00:15.713 [info] > git rev-parse refs/remotes/origin/master [142ms]
-2024-06-22 14:00:16.005 [info] > git status -z -uall [196ms]
-2024-06-22 14:00:16.005 [info] > git show --textconv :install [85ms]
-2024-06-22 14:00:16.006 [info] > git ls-files --stage -- /home/blessingwilliam195/url handler 2/url handler/vscode-handler/install [27ms]
-2024-06-22 14:00:16.168 [info] > git cat-file -s cdbbe89702138573787567e875333302800156bb [121ms]
-2024-06-22 14:00:24.379 [info] > git merge-base refs/heads/master refs/remotes/origin/master [10ms]
-2024-06-22 14:00:24.427 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [19ms]
-2024-06-22 14:00:25.414 [warning] Failed to get repository realpath for: "/home/blessingwilliam195/url handler/vscode-handler". Error: ENOENT: no such file or directory, realpath '/home/blessingwilliam195/url handler/vscode-handler'
-2024-06-22 14:00:26.368 [info] > git check-ignore -v -z --stdin [40ms]
-2024-06-22 15:27:49.782 [info] > git rev-parse --show-toplevel [64ms]
-2024-06-22 15:28:08.731 [info] > git rev-parse --show-toplevel [13ms]
-2024-06-22 15:28:08.781 [info] > git rev-parse --git-dir --git-common-dir [18ms]
-2024-06-22 15:28:08.883 [info] Open repository: /home/blessingwilliam195
-2024-06-22 15:28:08.956 [info] > git config --get commit.template [17ms]
-2024-06-22 15:28:09.003 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [22ms]
-2024-06-22 15:28:09.353 [info] > git status -z -uall [317ms]
-2024-06-22 15:28:09.577 [info] > git config --get commit.template [59ms]
-2024-06-22 15:28:09.653 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [24ms]
-2024-06-22 15:28:09.799 [info] > git show --textconv :login.html [151ms]
-2024-06-22 15:28:09.800 [info] > git ls-files --stage -- /home/blessingwilliam195/login.html [66ms]
-2024-06-22 15:28:09.909 [info] > git status -z -uall [229ms]
-2024-06-22 15:28:09.910 [info] > git cat-file -s 67c8d98535133292dfd1fabbb68aae4eda4b77e7 [77ms]
-2024-06-22 15:28:09.939 [info] > git check-ignore -v -z --stdin [52ms]
-2024-06-22 15:28:12.712 [info] > git config --get commit.template [17ms]
-2024-06-22 15:28:12.720 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
-2024-06-22 15:28:12.783 [info] > git status -z -uall [48ms]
-2024-06-22 15:28:46.086 [info] > git config --get commit.template [49ms]
-2024-06-22 15:28:46.113 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [38ms]
-2024-06-22 15:28:46.513 [info] > git status -z -uall [343ms]
-2024-06-22 15:28:51.691 [info] > git config --get commit.template [44ms]
-2024-06-22 15:28:51.695 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
-2024-06-22 15:28:51.943 [info] > git status -z -uall [219ms]
-2024-06-22 15:29:37.253 [info] > git config --get commit.template [16ms]
-2024-06-22 15:29:37.255 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
-2024-06-22 15:29:37.322 [info] > git status -z -uall [55ms]
-2024-06-22 15:29:46.370 [info] > git config --get commit.template [19ms]
-2024-06-22 15:29:46.373 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
-2024-06-22 15:29:46.443 [info] > git status -z -uall [58ms]
-2024-06-22 15:30:20.914 [info] > git config --get commit.template [18ms]
-2024-06-22 15:30:20.918 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
-2024-06-22 15:30:20.990 [info] > git status -z -uall [56ms]
-2024-06-22 15:30:38.216 [info] > git config --get commit.template [205ms]
-2024-06-22 15:30:38.582 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [201ms]
-2024-06-22 15:30:39.368 [info] > git status -z -uall [552ms]
-2024-06-22 15:30:44.783 [info] > git config --get commit.template [155ms]
-2024-06-22 15:30:44.846 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [88ms]
-2024-06-22 15:30:45.509 [info] > git status -z -uall [586ms]
-2024-06-22 15:30:50.581 [info] > git config --get commit.template [22ms]
-2024-06-22 15:30:50.585 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
-2024-06-22 15:30:50.654 [info] > git status -z -uall [58ms]
-2024-06-22 15:30:59.006 [info] > git config --get commit.template [45ms]
-2024-06-22 15:30:59.011 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [19ms]
-2024-06-22 15:30:59.183 [info] > git status -z -uall [128ms]
-2024-06-22 15:31:18.485 [info] > git config --get commit.template [35ms]
-2024-06-22 15:31:18.487 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [11ms]
-2024-06-22 15:31:18.844 [info] > git status -z -uall [314ms]
-2024-06-22 15:31:55.644 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [29ms]
-2024-06-22 15:31:55.657 [info] > git config --get commit.template [104ms]
-2024-06-22 15:31:56.048 [info] > git status -z -uall [311ms]
-2024-06-22 15:32:01.252 [info] > git config --get commit.template [56ms]
-2024-06-22 15:32:01.263 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [14ms]
-2024-06-22 15:32:01.530 [info] > git status -z -uall [230ms]
-2024-06-22 15:32:37.504 [info] > git show --textconv :login.html [139ms]
-2024-06-22 15:32:37.536 [info] > git ls-files --stage -- /home/blessingwilliam195/login.html [91ms]
-2024-06-22 15:32:37.634 [info] > git cat-file -s 67c8d98535133292dfd1fabbb68aae4eda4b77e7 [46ms]
-2024-06-22 15:32:38.556 [info] > git config --get commit.template [10ms]
-2024-06-22 15:32:38.598 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [11ms]
-2024-06-22 15:32:38.852 [info] > git status -z -uall [222ms]
-2024-06-22 15:32:50.879 [info] > git config --get commit.template [100ms]
-2024-06-22 15:32:50.904 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [36ms]
-2024-06-22 15:32:51.278 [info] > git status -z -uall [337ms]
-2024-06-22 15:38:42.396 [info] > git config --get commit.template [595ms]
-2024-06-22 15:38:42.438 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [161ms]
-2024-06-22 15:38:44.098 [info] > git status -z -uall [1579ms]
-2024-06-22 15:38:49.662 [info] > git config --get commit.template [88ms]
-2024-06-22 15:38:49.676 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [40ms]
-2024-06-22 15:38:49.941 [info] > git status -z -uall [150ms]
-2024-06-22 15:38:55.155 [info] > git config --get commit.template [74ms]
-2024-06-22 15:38:55.163 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [18ms]
-2024-06-22 15:38:55.571 [info] > git status -z -uall [383ms]
-2024-06-22 15:39:01.102 [info] > git config --get commit.template [245ms]
-2024-06-22 15:39:01.132 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [71ms]
-2024-06-22 15:39:01.925 [info] > git status -z -uall [536ms]
-2024-06-22 15:39:06.988 [info] > git config --get commit.template [2ms]
-2024-06-22 15:39:07.003 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
-2024-06-22 15:39:07.074 [info] > git status -z -uall [59ms]
-2024-06-22 15:39:15.877 [info] > git config --get commit.template [27ms]
-2024-06-22 15:39:15.881 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
-2024-06-22 15:39:16.045 [info] > git status -z -uall [148ms]
-2024-06-22 15:39:21.226 [info] > git config --get commit.template [93ms]
-2024-06-22 15:39:21.234 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [10ms]
-2024-06-22 15:39:21.349 [info] > git status -z -uall [99ms]
-2024-06-22 15:39:26.415 [info] > git config --get commit.template [10ms]
-2024-06-22 15:39:26.443 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
-2024-06-22 15:39:26.570 [info] > git status -z -uall [109ms]
-2024-06-22 15:39:32.748 [info] > git config --get commit.template [19ms]
-2024-06-22 15:39:32.760 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [14ms]
-2024-06-22 15:39:32.838 [info] > git status -z -uall [55ms]
-2024-06-22 15:39:37.916 [info] > git config --get commit.template [32ms]
-2024-06-22 15:39:37.927 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [16ms]
-2024-06-22 15:39:38.001 [info] > git status -z -uall [57ms]
-2024-06-22 15:39:43.069 [info] > git config --get commit.template [17ms]
-2024-06-22 15:39:43.075 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
-2024-06-22 15:39:43.144 [info] > git status -z -uall [58ms]
-2024-06-22 15:39:45.271 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master [36ms]
-2024-06-22 15:39:45.330 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master [2ms]
-2024-06-22 15:39:45.408 [info] > git config --local branch.master.vscode-merge-base [12ms]
-2024-06-22 15:39:45.409 [warning] git config failed: Failed to execute git
-2024-06-22 15:39:45.601 [info] > git reflog refs/heads/master --grep-reflog=branch: Created from *. [93ms]
-2024-06-22 15:39:45.770 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [22ms]
-2024-06-22 15:39:45.770 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
-2024-06-22 15:39:45.770 [info] GitHistoryProvider:resolveHistoryItemGroupBase - Failed to resolve history item group base for 'refs/heads/master'
-2024-06-22 15:39:45.770 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve history item group base for 'refs/heads/master'
-2024-06-22 15:39:45.837 [info] > git check-ignore -v -z --stdin [20ms]
-2024-06-22 15:39:48.316 [info] > git config --get commit.template [53ms]
-2024-06-22 15:39:48.502 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [35ms]
-2024-06-22 15:39:49.077 [info] > git status -z -uall [506ms]
-2024-06-22 15:39:49.502 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master [49ms]
-2024-06-22 15:39:49.622 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master [30ms]
-2024-06-22 15:39:49.792 [info] > git config --local branch.master.vscode-merge-base [55ms]
-2024-06-22 15:39:49.792 [warning] git config failed: Failed to execute git
-2024-06-22 15:39:49.877 [info] > git reflog refs/heads/master --grep-reflog=branch: Created from *. [33ms]
-2024-06-22 15:39:49.914 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [15ms]
-2024-06-22 15:39:49.914 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
-2024-06-22 15:39:49.914 [info] GitHistoryProvider:resolveHistoryItemGroupBase - Failed to resolve history item group base for 'refs/heads/master'
-2024-06-22 15:39:49.915 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve history item group base for 'refs/heads/master'
-2024-06-22 15:39:50.564 [info] > git check-ignore -v -z --stdin [67ms]
-2024-06-22 15:39:54.274 [info] > git config --get commit.template [32ms]
-2024-06-22 15:39:54.352 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [21ms]
-2024-06-22 15:39:54.622 [info] > git status -z -uall [199ms]
-2024-06-22 15:40:03.521 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master [63ms]
-2024-06-22 15:40:03.675 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master [72ms]
-2024-06-22 15:40:03.816 [info] > git config --local branch.master.vscode-merge-base [35ms]
-2024-06-22 15:40:03.816 [warning] git config failed: Failed to execute git
-2024-06-22 15:40:03.975 [info] > git reflog refs/heads/master --grep-reflog=branch: Created from *. [29ms]
-2024-06-22 15:40:04.087 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [34ms]
-2024-06-22 15:40:04.087 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
-2024-06-22 15:40:04.087 [info] GitHistoryProvider:resolveHistoryItemGroupBase - Failed to resolve history item group base for 'refs/heads/master'
-2024-06-22 15:40:04.087 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve history item group base for 'refs/heads/master'
-2024-06-22 15:40:05.587 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master [17ms]
-2024-06-22 15:40:05.684 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master [48ms]
-2024-06-22 15:40:05.788 [info] > git add -A -- . [2541ms]
-2024-06-22 15:40:05.788 [info] warning: adding embedded git repository: url handler 2/url handler/vscode-handler
-hint: You've added another git repository inside your current repository.
-hint: Clones of the outer repository will not contain the contents of
-hint: the embedded repository and will not know how to obtain it.
-hint: If you meant to add a submodule, use:
-hint: 
-hint: 	git submodule add <url> url handler 2/url handler/vscode-handler
-hint: 
-hint: If you added this path by mistake, you can remove it from the
-hint: index with:
-hint: 
-hint: 	git rm --cached url handler 2/url handler/vscode-handler
-hint: 
-hint: See "git help submodule" for more information.
-2024-06-22 15:40:05.903 [info] > git config --local branch.master.vscode-merge-base [140ms]
-2024-06-22 15:40:05.903 [warning] git config failed: Failed to execute git
-2024-06-22 15:40:06.085 [info] > git reflog refs/heads/master --grep-reflog=branch: Created from *. [86ms]
-2024-06-22 15:40:06.316 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [133ms]
-2024-06-22 15:40:06.316 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
-2024-06-22 15:40:06.316 [info] GitHistoryProvider:resolveHistoryItemGroupBase - Failed to resolve history item group base for 'refs/heads/master'
-2024-06-22 15:40:06.316 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve history item group base for 'refs/heads/master'
-2024-06-22 15:40:06.979 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master [70ms]
-2024-06-22 15:40:07.118 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master [30ms]
-2024-06-22 15:40:07.568 [info] > git config --local branch.master.vscode-merge-base [304ms]
-2024-06-22 15:40:07.571 [warning] git config failed: Failed to execute git
-2024-06-22 15:40:07.689 [info] > git reflog refs/heads/master --grep-reflog=branch: Created from *. [41ms]
-2024-06-22 15:40:07.816 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [54ms]
-2024-06-22 15:40:07.829 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
-2024-06-22 15:40:07.829 [info] GitHistoryProvider:resolveHistoryItemGroupBase - Failed to resolve history item group base for 'refs/heads/master'
-2024-06-22 15:40:07.829 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve history item group base for 'refs/heads/master'
-2024-06-22 15:40:08.874 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [75ms]
-2024-06-22 15:40:08.878 [info] > git config --get commit.template [153ms]
-2024-06-22 15:40:08.938 [warning] ENOENT: no such file or directory, open '/home/blessingwilliam195/url handler 2/url handler/vscode-handler/.git/refs/remotes/origin/master'
-2024-06-22 15:40:08.972 [info] > git rev-parse refs/remotes/origin/master [46ms]
-2024-06-22 15:40:09.108 [info] > git status -z -uall [22ms]
-2024-06-22 15:40:10.188 [info] > git ls-files --stage -- /home/blessingwilliam195/login.html [309ms]
-2024-06-22 15:40:10.352 [info] > git cat-file -s 67c8d98535133292dfd1fabbb68aae4eda4b77e7 [97ms]
-2024-06-22 15:40:10.881 [info] > git show --textconv :login.html [58ms]
-2024-06-22 15:40:12.740 [info] > git add -A -- . [142ms]
-2024-06-22 15:40:12.804 [info] > git check-ignore -v -z --stdin [95ms]
-2024-06-22 15:40:13.566 [info] > git show --textconv :.git/COMMIT_EDITMSG [151ms]
-2024-06-22 15:40:13.639 [info] > git ls-files --stage -- /home/blessingwilliam195/.git/COMMIT_EDITMSG [101ms]
-2024-06-22 15:40:20.368 [info] > git check-ignore -v -z --stdin [585ms]
-2024-06-22 15:40:20.411 [info] > git check-ignore -v -z --stdin [531ms]
-2024-06-22 15:40:20.422 [info] > git show --textconv :.git/COMMIT_EDITMSG [342ms]
-2024-06-22 15:40:20.469 [info] > git ls-files --stage -- /home/blessingwilliam195/url handler 2/url handler/vscode-handler/.git/COMMIT_EDITMSG [151ms]
-2024-06-22 15:40:43.258 [info] > git -c user.useConfigOnly=true commit --quiet [30471ms]
-2024-06-22 15:40:43.279 [info] Aborting commit due to empty commit message.
-2024-06-22 15:40:43.438 [info] > git config --get commit.template [44ms]
-2024-06-22 15:40:43.540 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [18ms]
-2024-06-22 15:40:43.620 [warning] ENOENT: no such file or directory, open '/home/blessingwilliam195/url handler 2/url handler/vscode-handler/.git/refs/remotes/origin/master'
-2024-06-22 15:40:43.644 [info] > git rev-parse refs/remotes/origin/master [26ms]
-2024-06-22 15:40:43.851 [info] > git status -z -uall [96ms]
-2024-06-22 15:40:45.984 [info] > git show --textconv :.git/COMMIT_EDITMSG [89ms]
-2024-06-22 15:40:45.991 [info] > git ls-files --stage -- /home/blessingwilliam195/.git/COMMIT_EDITMSG [35ms]
-2024-06-22 15:40:46.911 [info] > git -c user.useConfigOnly=true commit --quiet [41031ms]
-2024-06-22 15:40:46.912 [info] Aborting commit due to empty commit message.
-2024-06-22 15:40:47.178 [info] > git config --get commit.template [113ms]
-2024-06-22 15:40:47.211 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [48ms]
-2024-06-22 15:40:48.511 [info] > git status -z -uall [1217ms]
-2024-06-22 15:40:49.708 [info] > git config --get commit.template [94ms]
-2024-06-22 15:40:49.846 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [41ms]
-2024-06-22 15:40:50.765 [info] > git status -z -uall [745ms]
-2024-06-22 15:40:56.130 [info] > git config --get commit.template [95ms]
-2024-06-22 15:40:56.208 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [84ms]
-2024-06-22 15:40:57.202 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master [26ms]
-2024-06-22 15:40:57.292 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master [27ms]
-2024-06-22 15:40:57.472 [info] > git status -z -uall [1197ms]
-2024-06-22 15:40:57.563 [info] > git config --local branch.master.vscode-merge-base [114ms]
-2024-06-22 15:40:57.563 [warning] git config failed: Failed to execute git
-2024-06-22 15:40:57.954 [info] > git reflog refs/heads/master --grep-reflog=branch: Created from *. [284ms]
-2024-06-22 15:40:58.093 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [23ms]
-2024-06-22 15:40:58.093 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
-2024-06-22 15:40:58.094 [info] GitHistoryProvider:resolveHistoryItemGroupBase - Failed to resolve history item group base for 'refs/heads/master'
-2024-06-22 15:40:58.094 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve history item group base for 'refs/heads/master'
-2024-06-22 15:40:59.855 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master [30ms]
-2024-06-22 15:40:59.981 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master [86ms]
-2024-06-22 15:41:00.147 [info] > git config --local branch.master.vscode-merge-base [57ms]
-2024-06-22 15:41:00.152 [warning] git config failed: Failed to execute git
-2024-06-22 15:41:00.228 [info] > git reflog refs/heads/master --grep-reflog=branch: Created from *. [15ms]
-2024-06-22 15:41:00.621 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [139ms]
-2024-06-22 15:41:00.621 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
-2024-06-22 15:41:00.621 [info] GitHistoryProvider:resolveHistoryItemGroupBase - Failed to resolve history item group base for 'refs/heads/master'
-2024-06-22 15:41:00.621 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve history item group base for 'refs/heads/master'
-2024-06-22 15:41:01.321 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master [46ms]
-2024-06-22 15:41:01.422 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master [8ms]
-2024-06-22 15:41:01.462 [info] > git config --local branch.master.vscode-merge-base [15ms]
-2024-06-22 15:41:01.463 [warning] git config failed: Failed to execute git
-2024-06-22 15:41:01.495 [info] > git reflog refs/heads/master --grep-reflog=branch: Created from *. [10ms]
-2024-06-22 15:41:01.539 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [16ms]
-2024-06-22 15:41:01.540 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
-2024-06-22 15:41:01.540 [info] GitHistoryProvider:resolveHistoryItemGroupBase - Failed to resolve history item group base for 'refs/heads/master'
-2024-06-22 15:41:01.542 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve history item group base for 'refs/heads/master'
-2024-06-22 15:41:03.254 [info] > git config --get commit.template [415ms]
-2024-06-22 15:41:03.273 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [68ms]
-2024-06-22 15:41:04.396 [info] > git status -z -uall [694ms]
-2024-06-22 15:41:04.486 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master [110ms]
-2024-06-22 15:41:06.571 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master [1712ms]

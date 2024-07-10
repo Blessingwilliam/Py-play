@@ -4,4 +4,8 @@
 
         Despite this setback, our remaining team was determined to bring this project to life. This is just the beginning; we have ambitious plans to expand the platform with multiple games in the future.
 
-        For our portfolio project at Holberton School, we decided to focus on two games: a Chess Game and a basic racing car game named Route Rush. We hope you enjoy your gaming experience and welcome any suggestions to improve it further!
+        For our portfolio project at Holberton School, we decided to focus on two games: a Chess Game and a basic racing car game named Route Rush.
+	We hope you enjoy your gaming experience and welcome any suggestions to improve it further!
+
+
+	N.B: Surf into directories to find READ file of each project !
